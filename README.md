@@ -12,7 +12,7 @@ What products have the highest frequency of purchase?
 Explore different types of customers in the database and their ordering behaviors, including brand loyalty, regional differences, demographic differences.    
 
 ### Dataset
-The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 9/20/2023
+The Instacart Online Grocery Shopping Dataset 2017, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle on 9/20/2023
 
 ### Contents
 Data Import & Descriptive Analysis       
